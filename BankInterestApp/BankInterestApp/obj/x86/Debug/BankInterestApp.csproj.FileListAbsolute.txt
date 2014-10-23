@@ -1,0 +1,16 @@
+C:\Users\Rana\Desktop\Nahid\BankInterestApp\BankInterestApp\bin\Debug\BankInterestApp.exe
+C:\Users\Rana\Desktop\Nahid\BankInterestApp\BankInterestApp\bin\Debug\BankInterestApp.pdb
+C:\Users\Rana\Desktop\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\BankInterestApp.Form1.resources
+C:\Users\Rana\Desktop\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\BankInterestApp.Properties.Resources.resources
+C:\Users\Rana\Desktop\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\BankInterestApp.csproj.GenerateResource.Cache
+C:\Users\Rana\Desktop\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\BankInterestApp.exe
+C:\Users\Rana\Desktop\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\BankInterestApp.pdb
+D:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\BankInterestApp.exe
+D:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\BankInterestApp.pdb
+D:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\BankInterestApp\BankInterestApp\bin\Debug\BankInterestApp.exe
+D:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\BankInterestApp\BankInterestApp\bin\Debug\BankInterestApp.pdb
+D:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\BankInterestApp.Form1.resources
+D:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\BankInterestApp.Properties.Resources.resources
+D:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\BASIS\OOP C#-- ASP.NET\Nahid\BankInterestApp\BankInterestApp\obj\x86\Debug\GenerateResource.write.1.tlog
